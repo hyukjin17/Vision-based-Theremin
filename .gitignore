@@ -1,41 +1,23 @@
-# Prerequisites
-*.d
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
 *.so
-*.dylib
-*.dll
 
-# Fortran module files
-*.mod
-*.smod
+# Virtual Environments
+venv/
+env/
+ENV/
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# IDE / Editor folders
+.vscode/
+.idea/
 
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+# Audio / Media generated files (optional, if you add recording later)
+*.wav
+*.mp3
