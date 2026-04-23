@@ -21,3 +21,6 @@ ENV/
 # Audio / Media generated files (optional, if you add recording later)
 *.wav
 *.mp3
+
+# Data
+*.csv
