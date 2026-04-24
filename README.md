@@ -1,8 +1,8 @@
 # Vision-Based Theremin
 
-**Author:** Hyuk Jin Chung
-**Date:** April 2026
-**Language:** Python (OpenCV, MediaPipe, Pyo)
+* **Author:** Hyuk Jin Chung
+* **Date:** April 2026
+* **Language:** Python (OpenCV, MediaPipe, Pyo)
 
 ## Overview
 
