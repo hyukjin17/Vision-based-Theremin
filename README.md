@@ -1,5 +1,11 @@
 # Vision-Based Theremin
 
+**Author:** Hyuk Jin Chung
+**Date:** April 2026
+**Language:** Python (OpenCV, MediaPipe, Pyo)
+
+## Overview
+
 A touchless musical instrument controlled entirely by hands in front of a webcam (no sensors, no MIDI controller, no physical hardware beyond a camera). The right hand controls pitch (and selects chord qualities via finger pinches), while the left hand controls volume and audio effects through learned gesture recognition.
 
 ---
