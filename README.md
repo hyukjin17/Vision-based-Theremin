@@ -6,7 +6,7 @@ A touchless musical instrument controlled entirely by hands in front of a webcam
 
 ## Demo
 
-![Demo Video Link](https://youtu.be/krMZuCWujUQ)
+[Demo Video Link](https://youtu.be/krMZuCWujUQ)
 
 ---
 
